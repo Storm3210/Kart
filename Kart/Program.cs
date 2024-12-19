@@ -35,7 +35,7 @@ Console.WriteLine("Demon: Hello there earthling welcome to HELLS EPIC RACE *Evil
 
 
 
-        /*
+        
         if(input == word)
         {
             Console.WriteLine(input = word);
@@ -48,8 +48,9 @@ Console.WriteLine("Demon: Hello there earthling welcome to HELLS EPIC RACE *Evil
 
         }
             Console.WriteLine("Demon: Good I guess, well lets look at some roads okay?");
-        */
+        
 
+        /*
         bool isDone = false;
 
         while(isDone = true)
@@ -60,7 +61,6 @@ Console.WriteLine("Demon: Hello there earthling welcome to HELLS EPIC RACE *Evil
             } else if(input == word2)
 
             {
-                
 
             } else
             {
@@ -68,7 +68,7 @@ Console.WriteLine("Demon: Hello there earthling welcome to HELLS EPIC RACE *Evil
                 Console.ReadLine();
             }
         }
-
+        */
         
 
         Console.WriteLine("........................................................................................................................");
